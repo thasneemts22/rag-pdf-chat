@@ -1,0 +1,6 @@
+Project Phoenix is a confidential internal project launched by NexaCorp in early 2026.
+The project lead and head architect for Project Phoenix is Rahul Sharma.
+The total budget allocated for Project Phoenix is 4.5 million USD.
+The target launch deadline for the beta version is December 15, 2026.
+Employees working full-time on Project Phoenix receive an extra monthly bonus of 500 USD and 10 days of additional remote work.
+The primary programming language chosen for the Project Phoenix backend is Python using FastAPI.
